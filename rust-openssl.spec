@@ -6,7 +6,7 @@
 %global crate openssl
 
 Name:           rust-%{crate}
-Version:        0.10.35
+Version:        0.10.36
 Release:        1%{?dist}
 Summary:        OpenSSL bindings
 
